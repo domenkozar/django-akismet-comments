@@ -1,0 +1,2 @@
+graft django-akismet-comments
+include *.cfg *.rst *.in LICENSE
