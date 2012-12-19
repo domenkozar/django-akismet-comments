@@ -12,7 +12,7 @@ def read(*rnames):
 
 setup(
     name='django-akismet-comments',
-    version='0.1',
+    version='0.2.dev0',
     description='Django moderator for checking django.contrib.comments spam against akismet service.',
     long_description=read('README.rst') +
                      read('HISTORY.rst') +
